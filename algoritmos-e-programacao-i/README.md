@@ -14,7 +14,5 @@ aqui.
 
 # Lista de exercícios #
 
-<ul>
-	<li><a href="javascript:void(0)">Lista de exercícios</a></li>
-	<li>Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta source/lista-de-exercicios/, e pronto! :D</li>
-</ul>
+ + [Lista de exercícios -](lista-de-exercicios/exercicio-01.md) Sem link no momento
+ + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta source/lista-de-exercicios/, e pronto! :D
