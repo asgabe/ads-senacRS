@@ -1,21 +1,18 @@
-<h1>Algoritmos e Programação I</h1>
+# Algoritmos e Programação I #
 
 Este repositório contém exemplos de código e exercícios desenvolvidos em estudos da disciplina de Algoritmos e Programação I. Os códigos
 aqui encontrados foram feitos usando a linguagem de programação Java e linguagem algorítmica. Veja uma breve descrição da disciplina
 aqui.
 
-<h2>Exercícios da aula</h2>
+# Exercícios da aula #
 
-(Prof. Lucia Saccomori)
+**(Prof. Lucia Saccomori)**
 
-<ul>
-	<li><a href="javascript:void(0)">Aula 01 -</a></li>
-	<li><a href="javascript:void(0)">Aula 02 -</a></li>
-	<li><a href="javascript:void(0)">Aula 03 -</a></li>
-	<li><a href="javascript:void(0)">Aula 04 -</a></li>
-</ul>
+ + [Aula 01 -](algoritmos-e-programacao-i/aula-01.md) Sem link no momento
+ + [Aula 01 -](algoritmos-e-programacao-i/aula-02.md) Sem link no momento
+ + [Aula 02 -](algoritmos-e-programacao-i/aula-03.md) Sem link no momento
 
-<h2>Lista de exercícios</h2>
+# Lista de exercícios #
 
 <ul>
 	<li><a href="javascript:void(0)">Lista de exercícios</a></li>
