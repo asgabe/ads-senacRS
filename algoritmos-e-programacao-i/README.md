@@ -15,4 +15,4 @@ aqui.
 # Lista de exercícios #
 
  + [Lista de exercícios -](lista-de-exercicios/exercicio-01.md) Sem link no momento
- + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta [code]source/lista-de-exercicios/[/code], e pronto! :D
+ + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta 'source/lista-de-exercicios/', e pronto! :D
