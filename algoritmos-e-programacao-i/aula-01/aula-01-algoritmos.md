@@ -11,7 +11,7 @@ ENIAC
 Em 1942, o físico John Mauchly propôs uma máquina de calcular totalmente eletrônica. O Exército dos EUA, enquanto isso, necessário para calcular complexas em tempo de guerra balística tabelas. Proposta encontrou patrono.
 O resultado foi ENIAC (Electronic Numerical Integrator e computador), construída entre 1943 e 1945, o primeiro computador de grande escala para executar em velocidade eletrônico sem ser retardado por quaisquer peças mecânicas. Por uma década, até 1955 uma greve relâmpago, ENIAC pode ter executar cálculos mais do que toda a humanidade tinha feito até aquele ponto.
 
-![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-1/img/eniac.jpg "ENIAC")
+![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/eniac.jpg "ENIAC")
 
 ### O que é programação ? ###
 
