@@ -77,3 +77,9 @@ Cada uma dessas formas de representar um algoritmo, tem suas vantagens e desvant
 Imagine o seguinte problema: Calcular a média final dos alunos. Os alunos receberão 2 notas: N1, N2. Onde:
 
 ![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-02/img/exemplo-01.png "Exemplo")
+
+### Três perguntas: ###
+ + Para montar o algoritmo proposto, faremos três perguntas:
+ 	1. Quais são os dados de entrada ? **R: Os dados de entrada são N1, N2**
+ 	2. Qual será o processamento a ser utilizado ? **R: O procedimento será somar todos os dados de entrada e dividi-los por 2 (dois)**
+ 	3. Quais serão os dados de saída ? **R: O dado de saída será a média final**
