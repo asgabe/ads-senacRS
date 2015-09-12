@@ -21,5 +21,10 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
 
 ### O que preciso saber para programar ? ###
 
-#### (ALGORITMOS E LINGUAGEM DE PROGRAMAÇÃO) ####
+**(ALGORITMOS E LINGUAGEM DE PROGRAMAÇÃO)**
+
+### Algotitmos ###
+
+ + Para resolver um problema no computador é necessário que seja primeiramentre econtrado uma maniera de descrever este problema de um forma clara e precisa.
+ + É preciso que encontremos uma sequência de passoas que permitem que o problema possa ser resolvido de maneira automática e repetitiva. Esta sequência de passoa é chamada de algoritmo.
 
