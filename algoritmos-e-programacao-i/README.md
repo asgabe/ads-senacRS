@@ -4,15 +4,16 @@ Este repositório contém exemplos de código e exercícios desenvolvidos em est
 aqui encontrados foram feitos usando a linguagem de programação Java e linguagem algorítmica. Veja uma breve descrição da disciplina
 aqui.
 
-# Exercícios da aula #
+## AULAS ##
 
 **(Prof. Lucia Saccomori)**
 
  + [Aula 01](aula-01/aula-01-algoritmos.md)
  + [Aula 02](aula-02/aula-02-algoritmos.md)
- + [Aula 02 -](aula-03.md) Sem link no momento
+ + [Aula 03 -](aula-03/aula-03-algoritmos.md) Sem link no momento
 
-# Lista de exercícios #
+## Lista de exercícios ##
 
- + [Lista de exercícios -](lista-de-exercicios/exercicio-01.md) Sem link no momento
- + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta `source/lista-de-exercicios/`, e pronto! :D
+ + [Lista de exercícios aula 01](lista-de-exercicios/exercicio-01.md) Sem link no momento
+ + [Lista de exercícios aula 02](lista-de-exercicios/exercicio-02.md) Sem link no momento
+ + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta `aula-que-desejas/lista-de-exercicios/`, e pronto! :D
