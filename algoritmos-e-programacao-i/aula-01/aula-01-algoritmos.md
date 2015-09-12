@@ -66,8 +66,7 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
  + Quando um compilador interpreta as instruções de programação em uma linguagem de programação, ele irá convertê-las em código de máquina somente se a entrada seguir exatamente as convenções da linguagem.
 
 ### Qual linguagem iremos ultilizar ? ###
-![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/interrogacao.jpg "?")
 
-![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/java-icon.png "Java") **Java**
+### Java ### ![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/java-icon.png "Java")
 
 
