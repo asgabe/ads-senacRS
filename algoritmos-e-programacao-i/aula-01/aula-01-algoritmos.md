@@ -117,11 +117,11 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 	* Uso de laboratório
 	* Utilização de material bibliográfico.
 
-| Conceitos						|			  	    	|
-|:-----------------------------:|:---------------------:|
-| Algotimos     				| Conversão de dados 	|
-| Variáveis e tipos de Varáveis | Controle de exceções	|
-| Operadores	 				| Orientação à objetos  |
-| Construtor lógico de seleção	| Classes				|
-| Estrutura de repetição		| Método				|
-| Array							| Atributo				|
+| **Conceitos**							| **Coceitos**	  	    		|
+|:-------------------------------------:|:-----------------------------:|
+| ***Algotimos***     					| ***Conversão de dados*** 		|
+| ***Variáveis e tipos de Varáveis*** 	| ***Controle de exceções***	|
+| ***Operadores***	 					| ***Orientação à objetos***  	|
+| ***Construtor lógico de seleção***	| ***Classes***					|
+| ***Estrutura de repetição***			| ***Método***					|
+| ***Array***							| ***Atributo***				|
