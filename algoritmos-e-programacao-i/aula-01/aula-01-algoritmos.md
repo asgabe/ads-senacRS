@@ -93,21 +93,21 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 ### O que veremos na Disciplina ###
 
 1. Caracterização da Unidade Curricular
-	⋅⋅* Compreensão e alteração de programas ultizando programação estruturada e orientação a objetos.
+	* Compreensão e alteração de programas ultizando programação estruturada e orientação a objetos.
 2. Competencia Essencial
-	⋅⋅* Representar a resolução de problemas através da construção de algoritmos ultilizando conceitos de programção estruturada e orientação a objetos.
+	* Representar a resolução de problemas através da construção de algoritmos ultilizando conceitos de programção estruturada e orientação a objetos.
 3. Elementos da Competência Relacionada
-	⋅⋅* Ultilizar peseudocódigo na representação da solução de problemas.
-	⋅⋅* Ultilizar estrutura de dados na solução de problemas computacionais.
-	⋅⋅* Ultilizar objetos.
-	⋅⋅* Implementar classes.
+	* Ultilizar peseudocódigo na representação da solução de problemas.
+	* Ultilizar estrutura de dados na solução de problemas computacionais.
+	* Ultilizar objetos.
+	* Implementar classes.
 4. Bases Tecnológicas
-	⋅⋅* Lógicas de programação
-	⋅⋅* Programação orientada a objetos.
-	⋅⋅* Variáveis, atribuição, expressões.
-	⋅⋅* Classes, objetos, métodos, atributos, parâmetros.
-	⋅⋅* Controle de fluxos de execução: de decisão e iteração.
-	⋅⋅* Tipos de dados.
-	⋅⋅* Vetores e listas.
-	⋅⋅* Testes de mesa.
-	⋅⋅* Representações alternativas do programa: diagramas e tabelas.
+	* Lógicas de programação
+	* Programação orientada a objetos.
+	* Variáveis, atribuição, expressões.
+	* Classes, objetos, métodos, atributos, parâmetros.
+	* Controle de fluxos de execução: de decisão e iteração.
+	* Tipos de dados.
+	* Vetores e listas.
+	* Testes de mesa.
+	* Representações alternativas do programa: diagramas e tabelas.
