@@ -125,3 +125,22 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 | ***Construtor lógico de seleção***	| ***Classes***					|
 | ***Estrutura de repetição***			| ***Método***					|
 | ***Array***							| ***Atributo***				|
+
+### Livros ###
+
++ Programação Orientada a Objetos com Java: Uma introdução prática
+usando BlueJ
+	* David J. Barnes e Michael Kölling
+	* Editora Pearson / Prentice Hall
++ Java Use a Cabeça
+	* Kathy Sierra e Bert Bates
+	* Editora Alta Books
++ Java Como Programar
+	* Deitel
+	* Editora Pearson / Prentice Hall
++ Simplesmente Java
+	* Michael Wenstrom
+	* Editora Alta Books
++ Big Java
+	* Cay Horstmann
+	* Editora Bookman
