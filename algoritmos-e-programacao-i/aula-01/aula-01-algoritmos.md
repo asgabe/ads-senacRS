@@ -49,6 +49,6 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
 ### Solução ###
  + Pegue a altura da primeira pessoa. Esta é a única **informação** que você tem até o momento. Então, “guarde” a informação.
  + Percorra cada uma das próximas pessoas e faça o seguinte:
-  ...Pegue a altura da pessoa, esta é a altura atual.
-  ...Compare a altura atual com a máxima até o momento. Esta comparação pode resultar em três possibilidades: **a altura atual é menor, é igual ou é maior.**
-  ...Se a altura atual for maior, então faça o valor da altura máxima ser igual a atual.
+ + Pegue a altura da pessoa, esta é a altura atual.
+ + Compare a altura atual com a máxima até o momento. Esta comparação pode resultar em três possibilidades: **a altura atual é menor, é igual ou é maior.**
+ + Se a altura atual for maior, então faça o valor da altura máxima ser igual a atual.
