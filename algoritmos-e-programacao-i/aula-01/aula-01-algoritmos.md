@@ -118,7 +118,7 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 	* Utilização de material bibliográfico.
 
 | Conceitos									  	    	|
-| ----------------------------- | --------------------- |
+| ----------------------------- |:---------------------:|
 | Algotimos     				| Conversão de dados 	|
 | Variáveis e tipos de Varáveis | Controle de exceções	|
 | Operadores	 				| Orientação à objetos  |
