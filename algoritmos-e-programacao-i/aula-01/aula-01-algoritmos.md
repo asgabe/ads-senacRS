@@ -44,11 +44,26 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
  + Adquirir uma base suficientemente boa, para que você domine os algoritmos e esteja habilitado a aprender uma Linguagem de Programação posteriormente.
 
 ### Problema ###
+
  + Descobrir a altura da pessoa mais alta de um grupo de pessoas. Suponha que estas pessoas estão em sequência, como em uma fila de banco, e que esta fila não está vazia.
 
 ### Solução ###
+
  + Pegue a altura da primeira pessoa. Esta é a única **informação** que você tem até o momento. Então, “guarde” a informação.
  + Percorra cada uma das próximas pessoas e faça o seguinte:
  + Pegue a altura da pessoa, esta é a altura atual.
  + Compare a altura atual com a máxima até o momento. Esta comparação pode resultar em três possibilidades: **a altura atual é menor, é igual ou é maior.**
  + Se a altura atual for maior, então faça o valor da altura máxima ser igual a atual.
+
+### Conversão de programas em códigos de máquina ###
+
+ + O computador somente interpreta instruções em linguagem de máquina, que é composta por uma seqüência de números.
+ + Pelo fato de as instruções de máquina serem codificadas como números é difícil escrever programas em código de máquina.
+ + O compilador converte os programas escritos em linguagem de programação (alto nível) em código de máquina.
+
+### Linguagem de Programação ###
+ + As linguagens de programação de alto nível não dependem da arquitetura específica de um computador, mas são criações humanas. Como tal, seguem certas convenções de programação.
+ + Quando um compilador interpreta as instruções de programação em uma linguagem de programação, ele irá convertê-las em código de máquina somente se a entrada seguir exatamente as convenções da linguagem.
+
+### Qual linguagem iremos ultilizar ? ###
+![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/interrogacao.jpg "ENIAC")
