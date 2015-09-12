@@ -67,6 +67,7 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
 
 ### Qual linguagem iremos ultilizar ? ###
 
-### Java ### ![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/java-icon.png "Java")
+### Java ###
+![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/java-icon.png "Java")
 
 
