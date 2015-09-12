@@ -82,9 +82,32 @@ Para permitir que os aplicativos Java sejam executadas em sistemas operacionais 
 Java tem uma biblioteca bastante extensa. Concentre-se em conhecer aquelas partes da biblioteca de que você precisará nos seus projetos de programação. Dedique algum tempo para conhecer o sistema do computador e o compilador Java que será usado em seu estudo.
 
 ### Bibliografia ###
+
 Para a elaboração deste material foram consultados vários tipos de materiais, como por exemplo: livros, apostilas, páginas web etc. Algumas das referências consultadas estão apresentadas a seguir:
  + DEITEL, H. M.; DEITEL, P. J. Java: como programar. 6. ed. São Paulo: Bookman, 2007. 1110 p. ISBN 8576050196.
  + HORSTMANN, Cay. **Big Java**. Porto Alegre: Bookman, 2006. 1125 p. ISBN 853630345X
  + **CS-14** Algoritmos e Estrutura de Dados em Java – Disponível em: caelum.com.br
  + BUFFONI, Salete. Apostila de Algoritmo Estruturado - 4ª edição. Disponível em: http://www.saletebuffoni.hpg.ig.com.br/algoritmos/Algoritmos.pdf.
  + GOMES, Abel. **Algoritmos, Fluxogramas e Pseudo-código - Design de Algoritmos.** Disponível em: http://mail.di.ubi.pt/~programacao/capitulo6.pdf.
+
+### O que veremos na Disciplina ###
+
+1. Caracterização da Unidade Curricular
+.. * Compreensão e alteração de programas ultizando programação estruturada e orientação a objetos.
+2. Competencia Essencial
+.. * Representar a resolução de problemas através da construção de algoritmos ultilizando conceitos de programção estruturada e orientação a objetos.
+3. Elementos da Competência Relacionada
+.. * Ultilizar peseudocódigo na representação da solução de problemas.
+.. * Ultilizar estrutura de dados na solução de problemas computacionais.
+.. * Ultilizar objetos.
+.. * Implementar classes.
+4. Bases Tecnológicas
+.. * Lógicas de programação
+.. * Programação orientada a objetos.
+.. * Variáveis, atribuição, expressões.
+.. * Classes, objetos, métodos, atributos, parâmetros.
+.. * Controle de fluxos de execução: de decisão e iteração.
+.. * Tipos de dados.
+.. * Vetores e listas.
+.. * Testes de mesa.
+.. * Representações alternativas do programa: diagramas e tabelas.
