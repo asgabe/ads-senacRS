@@ -66,6 +66,25 @@ O resultado foi ENIAC (Electronic Numerical Integrator e computador), construíd
  + Quando um compilador interpreta as instruções de programação em uma linguagem de programação, ele irá convertê-las em código de máquina somente se a entrada seguir exatamente as convenções da linguagem.
 
 ### Qual linguagem iremos ultilizar ? ###
+
 ![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-01/img/java-icon.png "Java")
 
+### A linguagem de Programação JAVA ###
 
+Em 1991 James Gosling e Patrick Naughton, da Sun Microsystems, desenvolveram uma linguagem chamada “Green”, para programar dispositivos de consumo popular. Foi projetada para ser segura e portável. Sucesso para escrever applets da internet. O mesmo programa Java pode ser executado, sem qualquer alteração, em qualquer sistema operacional.
+
+### JVM – Java Virtual Machine ###
+
+Para permitir que os aplicativos Java sejam executadas em sistemas operacionais diferentes, os programas contem instruções para uma JVM. A JVM é um CPU virtual simulada por um programa executado na CPU real. A JVM codifica a seqüência de instruções em uma seqüência de números
+
+### Como estudar JAVA ###
+
+Java tem uma biblioteca bastante extensa. Concentre-se em conhecer aquelas partes da biblioteca de que você precisará nos seus projetos de programação. Dedique algum tempo para conhecer o sistema do computador e o compilador Java que será usado em seu estudo.
+
+### Bibliografia ###
+Para a elaboração deste material foram consultados vários tipos de materiais, como por exemplo: livros, apostilas, páginas web etc. Algumas das referências consultadas estão apresentadas a seguir:
+ + DEITEL, H. M.; DEITEL, P. J. Java: como programar. 6. ed. São Paulo: Bookman, 2007. 1110 p. ISBN 8576050196.
+ + HORSTMANN, Cay. **Big Java**. Porto Alegre: Bookman, 2006. 1125 p. ISBN 853630345X
+ + **CS-14** Algoritmos e Estrutura de Dados em Java – Disponível em: caelum.com.br
+ + BUFFONI, Salete. Apostila de Algoritmo Estruturado - 4ª edição. Disponível em: http://www.saletebuffoni.hpg.ig.com.br/algoritmos/Algoritmos.pdf.
+ + GOMES, Abel. **Algoritmos, Fluxogramas e Pseudo-código - Design de Algoritmos.** Disponível em: http://mail.di.ubi.pt/~programacao/capitulo6.pdf.
