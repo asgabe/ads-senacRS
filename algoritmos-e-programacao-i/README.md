@@ -8,9 +8,9 @@ aqui.
 
 **(Prof. Lucia Saccomori)**
 
- + [Aula 01 -](algoritmos-e-programacao-i/aula-01/aula-01-algoritmos.md)
- + [Aula 01 -](algoritmos-e-programacao-i/aula-02.md) Sem link no momento
- + [Aula 02 -](algoritmos-e-programacao-i/aula-03.md) Sem link no momento
+ + [Aula 01](aula-01/aula-01-algoritmos.md)
+ + [Aula 01 -](aula-02.md) Sem link no momento
+ + [Aula 02 -](aula-03.md) Sem link no momento
 
 # Lista de exercícios #
 
