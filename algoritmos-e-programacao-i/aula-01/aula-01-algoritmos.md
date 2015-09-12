@@ -111,3 +111,9 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 	* Vetores e listas.
 	* Testes de mesa.
 	* Representações alternativas do programa: diagramas e tabelas.
+5. Estratégias de Ensino e de Aprendizagem
+	* Serão ultilizadas as seguintes metodologias no decorrer dos bimestres
+		** Aula Expositivas
+		** Ultilização de recursos de multimídia
+		** Uso de laboratório
+		** Utilização de material bibliográfico.
