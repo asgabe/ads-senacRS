@@ -19,6 +19,6 @@ PROCESSAMENTO
 	percentual_homens = (qtdhomens / total) * 100;
 	percentual_mulheres = (qtdmulheres / total) * 100;
 SAIDA
-	Escreva "percentual_homens + "%"
-	Escreva "percentual_mulheres + "%"
+	Escreva "percentual_homens" + "%"
+	Escreva "percentual_mulheres" + "%"
 ```
