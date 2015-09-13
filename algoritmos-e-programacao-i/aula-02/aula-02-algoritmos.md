@@ -164,3 +164,55 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 **CS-14** Algoritmos e Estrutura de Dados em Java – Disponível em: caelum.com.br
  + BUFFONI, Salete. Apostila de Algoritmo Estruturado - 4ª edição. Disponível em: http://www.saletebuffoni.hpg.ig.com.br/algoritmos/Algoritmos.pdf.
  + GOMES, Abel. **Algoritmos, Fluxogramas e Pseudo-código - Design de Algoritmos**. Disponível em: http://mail.di.ubi.pt/~programacao/capitulo6.pdf.
+
+# GOTAS DE SABEDORIA #
+
+##### LEMBRE-SE EM TODOS OS CÁLCULOS: #####
+
+1º Operações dentro dos parênteses (se houver);
+2º Operações dentro dos colchetes (se houver);
+3º operações dentro das chave ( se houver).
+
+Em todas elas:
+
+Multiplicações e divisões primeiro, somas e subtrações depois.
+
+
+
+##### PORCENTAGENS #####
+
+**Exemplo:** `5,00% de 500,00`
+
+```java
+(5,00 x 500,00) / 100
+2.500,00 / 100 = 25,00
+```
+
+ou simplesmente pula duas casas para a esquerda: `5% = 0,05`
+
+`0,05 x 500 = 25,00`
+
+**Exemplo :** `15,00% de 1.200,00`
+
+```java
+15% = 0,15
+0,15 x 1.200,00 = 180,00
+```
+
+**Exemplo:** `148% de 4.600,00`
+
+`148% = 1,48`
+`1,48 x 4.600,00 = 6.808,00`
+
+
+**VALOR COM UM ACRÉSCIMO PERCENTUAL**
+
+**Acrescentar 1 e multiplicar**
+
+```java
+100,00 com acréscimo de30%  =  100,00 x 1,30 =, 130,00
+200,00 com acréscimo de25% =  200,00 x 1,25 = 250,00
+2.500,00 com acréscimo de17%  =  2.500,00 x 1,17 = 2.925,00
+185.500,00 com acréscimo de 35,9%  =  185.500,00 x 1,359 = 252.094,50
+185.500,00 com acréscimo de 200%  =  185.500,00 x 3,00 = 556.500,00
+```
