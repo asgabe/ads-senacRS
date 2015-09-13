@@ -156,7 +156,7 @@ public class exercicio_02 {
 	}
 
 }
-//R: O erro se encontra nessa linha de código `while (contador <= 10);`
+// R: O erro se encontra nessa linha de código "while (contador <= 10);"
 ```
 
  + [5] Qual a diferença do "while" e "do while"?
