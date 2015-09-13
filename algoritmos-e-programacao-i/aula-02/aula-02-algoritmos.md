@@ -86,7 +86,7 @@ Imagine o seguinte problema: Calcular a média final dos alunos. Os alunos receb
 
 ### Algoritmo em Portugol ###
 
-```javascript
+```java
 Dados de ENTRADA
 	Escreva "Informe a primeira nota do aluno:"
 	Leia n1
