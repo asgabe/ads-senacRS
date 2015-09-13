@@ -112,3 +112,47 @@ PROCESSAMENTO
 Dados de SAÍDA
 	Exiba Média [6,0]
 ```
+
+### Estrutura de seleção  ###
+
+Na **estrutura de seleção**, uma condição deve ser analisada e, a partir do resultado da análise, um "caminho" do algoritmo será executado. Em outras palavras, uma estrutura de seleção escolhe ações a serem executadas a partir de uma condição (que pode ser simples ou composta).
+
+### Algumas Palavras Chave Portugol ###
+ + Se
+ + Então
+ + Se não
+
+### Exemplo de Algoritmo Portugol ###
+
+Imagine o seguinte problema: Exibir o resultado final de um aluno. Para isso, calcular a média final dos alunos. Os alunos receberão 2 notas: N1, N2. Onde:
+
+![alt text](https://github.com/gabcorrea/ads-senacRS/blob/master/algoritmos-e-programacao-i/aula-02/img/exemplo-01.png "Exemplo")
+
+O aluno que atingir média superior a 6 está aprovado.
+
+######Três perguntas######
+Para montar o algoritmo proposto, faremos três perguntas:
+ * Quais são os dados de entrada ?
+ 	* R:Os dados de entrada são N1, N2
+ * Qual será o processamento a ser utilizado ?
+ 	* R: O procedimento será somar todos os dados de entrada e dividi-los por 2 (dois), verificar se a média é superior ou igual a 6
+ * Quais serão os dados de saída ?
+  	* R: Exibir o resultado Final
+
+######TAlgoritmo em Portugol######
+
+```java
+Dados de ENTRADA
+	Escreva "Informe a primeira nota do aluno:"
+	Leia n1
+	Escreva "Informe a segunda nota do aluno:"
+	Leia n2
+PROCESSAMENTO
+	Calcule Média = (n1 + n2) / 2
+	Se média > = 6
+	então Resultado = Aprovado
+	Se não
+	Resultado = Reprovado
+Dados de SAÍDA
+	Exiba Resultado
+```
