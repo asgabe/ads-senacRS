@@ -140,11 +140,11 @@ public class exercicio_02 {
 ```
  + [4] Identifique o que está errado no código abaixo
 
+```java
 package aula06;
 
 import java.util.Scanner;
 
-```java
 public class exercicio_02 {
 	public static void main(String[] args) {
 
