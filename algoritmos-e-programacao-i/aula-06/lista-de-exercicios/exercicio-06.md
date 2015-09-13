@@ -98,6 +98,7 @@ public class exercicio_01 {
 ```
 2- Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
 
+```java
 01
 02 02
 03 03 03
@@ -109,6 +110,7 @@ public class exercicio_01 {
 09 09 09 09 09 09 09 09 09
 10 10 10 10 10 10 10 10 10 10
 11 11 11 11 11 11 11 11 11 11 11
+```
 
 ```java
 package aula06;
