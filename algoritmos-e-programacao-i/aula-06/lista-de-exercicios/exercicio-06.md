@@ -16,7 +16,7 @@ package aula06;
 
 import java.util.Scanner;
 
-public class exercicios_01 {
+public class exercicio_01 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 
@@ -96,3 +96,44 @@ public class exercicios_01 {
 
 }
 ```
+2- Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
+
+01
+02 02
+03 03 03
+04 04 04 04
+05 05 05 05 05
+06 06 06 06 06 06
+07 07 07 07 07 07 07
+08 08 08 08 08 08 08 08
+09 09 09 09 09 09 09 09 09
+10 10 10 10 10 10 10 10 10 10
+11 11 11 11 11 11 11 11 11 11 11
+
+```java
+package aula06;
+
+import java.util.Scanner;
+
+public class exercicio_02 {
+	public static void main(String[] args) {
+		Scanner ler = new Scanner(System.in);
+
+		int linha, coluna, contador = 1;
+		System.out.println("Coloque o número de linhas da pirâmide");
+		linha = ler.nextInt();
+		while (contador <= linha) {
+			coluna = 1;
+			while (coluna <= contador) {
+				System.out.print(contador + " ");
+				coluna = coluna + 1;
+			}
+			System.out.println(" ");
+			contador = contador + 1;
+		}
+
+	}
+
+}
+```
+
