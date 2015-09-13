@@ -1,4 +1,4 @@
-# Lista de Exercícios Aula 06 #
+# Lista de Exercícios #
 
 ## Aula 06 ##
 
