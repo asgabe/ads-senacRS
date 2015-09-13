@@ -86,7 +86,8 @@ Imagine o seguinte problema: Calcular a média final dos alunos. Os alunos receb
 
 ### Algoritmo em Portugol ###
 
-```Dados de ENTRADA
+```javascript
+Dados de ENTRADA
 	Escreva "Informe a primeira nota do aluno:"
 	Leia n1
 	Escreva "Informe a segunda nota do aluno:"
@@ -94,12 +95,5 @@ Imagine o seguinte problema: Calcular a média final dos alunos. Os alunos receb
 PROCESSAMENTO
 	Calcule Média = (n1 + n2) / 2
 Dados de SAÍDA
-	Exiba Média```
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+	Exiba Média
 ```
