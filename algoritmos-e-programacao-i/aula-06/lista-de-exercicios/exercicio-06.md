@@ -2,7 +2,7 @@
 
 ## Aula 06 ##
 
- + Faça um algoritmo, para simular uma urna de votação para exatamente 3
+ + [ 1 ] Faça um algoritmo, para simular uma urna de votação para exatamente 3
 candidatos (candidato A, candidato B e candidato C).  Apresente ao eleitor os as
 opções de 1 a 3 com nomes dos candidatos e solicite qual candidato deseja votar.
 Permita votos em branco (opção 4) e termine o processo de votação, com a
@@ -96,7 +96,7 @@ public class exercicio_01 {
 
 }
 ```
-2- Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
+ + [ 2 ] Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
 
 ```java
 01
