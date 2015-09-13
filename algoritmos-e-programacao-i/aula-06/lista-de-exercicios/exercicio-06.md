@@ -144,6 +144,7 @@ package aula06;
 
 import java.util.Scanner;
 
+```java
 public class exercicio_02 {
 	public static void main(String[] args) {
 
@@ -155,9 +156,9 @@ public class exercicio_02 {
 	}
 
 }
-
-**R:** O erro se encontra nessa linha de código `while (contador <= 10);`
+//R: O erro se encontra nessa linha de código `while (contador <= 10);`
+```
 
  + [5] Qual a diferença do "while" e "do while"?
- 	* **While:** Esta instrução é usada quando não sabemos quantas vezes um determinado bloco de instruções precisa ser repetido. Com ele, a execução das instruções vai continuar até que uma condição seja verdadeira. A condição a ser analisada para a execução do laço de repetição deverá retornar um valor booleano.
+ 	* **while:** Esta instrução é usada quando não sabemos quantas vezes um determinado bloco de instruções precisa ser repetido. Com ele, a execução das instruções vai continuar até que uma condição seja verdadeira. A condição a ser analisada para a execução do laço de repetição deverá retornar um valor booleano.
  	* **do while:** O do/while tem quase o mesmo funcionamento que o while, a diferença é que com o uso dele teremos os comandos executados ao menos uma única vez.
