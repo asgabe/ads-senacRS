@@ -95,3 +95,11 @@ PROCESSAMENTO
 	Calcule Média = (n1 + n2) / 2
 Dados de SAÍDA
 	Exiba Média```
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
