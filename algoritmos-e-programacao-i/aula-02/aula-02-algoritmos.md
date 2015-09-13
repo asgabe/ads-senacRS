@@ -83,3 +83,15 @@ Imagine o seguinte problema: Calcular a média final dos alunos. Os alunos receb
  	1. Quais são os dados de entrada ? **R: Os dados de entrada são N1, N2**
  	2. Qual será o processamento a ser utilizado ? **R: O procedimento será somar todos os dados de entrada e dividi-los por 2 (dois)**
  	3. Quais serão os dados de saída ? **R: O dado de saída será a média final**
+
+### Algoritmo em Portugol ###
+
+`` `Dados de ENTRADA
+		Escreva "Informe a primeira nota do aluno:"
+		Leia n1
+		Escreva "Informe a segunda nota do aluno:"
+		Leia n2
+	PROCESSAMENTO
+		Calcule Média = (n1 + n2) / 2
+	Dados de SAÍDA
+		Exiba Média`` `
