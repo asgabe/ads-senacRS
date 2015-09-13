@@ -7,7 +7,6 @@
 
 1. Em uma universidade esta sendo realizada uma pesquisa, para apurar o perfil dos alunos do curso de ADS. Faça um algoritmo que solicite a quantidade total de homens e a quantidade total de mulheres de uma turma da faculdade. Em seguida calcule e exiba o percentual (separadamente) de homens e mulheres desta turma.
 
-
 ```java
 variaveis = qtdHomens, qtdMulheres, ,percentual_homens, percentual_mulheres, total;
 Dados de ENTRADA
