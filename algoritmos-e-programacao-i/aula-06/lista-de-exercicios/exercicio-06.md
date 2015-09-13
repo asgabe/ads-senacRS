@@ -2,7 +2,7 @@
 
 ## Aula 06 ##
 
- + [1] Faça um algoritmo, para simular uma urna de votação para exatamente 3
+[ 1 ] Faça um algoritmo, para simular uma urna de votação para exatamente 3
 candidatos (candidato A, candidato B e candidato C).  Apresente ao eleitor os as
 opções de 1 a 3 com nomes dos candidatos e solicite qual candidato deseja votar.
 Permita votos em branco (opção 4) e termine o processo de votação, com a
@@ -96,7 +96,7 @@ public class exercicio_01 {
 
 }
 ```
- + [2] Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
+[ 2 ] Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
 
 ```java
 01
@@ -138,7 +138,7 @@ public class exercicio_02 {
 
 }
 ```
- + [4] Identifique o que está errado no código abaixo
+[ 4 ] Identifique o que está errado no código abaixo
 
 ```java
 package aula06;
@@ -159,6 +159,6 @@ public class exercicio_02 {
 // R: O erro se encontra nessa linha de código "while (contador <= 10);"
 ```
 
- + [5] Qual a diferença do "while" e "do while"?
- 	* **while:** Esta instrução é usada quando não sabemos quantas vezes um determinado bloco de instruções precisa ser repetido. Com ele, a execução das instruções vai continuar até que uma condição seja verdadeira. A condição a ser analisada para a execução do laço de repetição deverá retornar um valor booleano.
- 	* **do while:** O do/while tem quase o mesmo funcionamento que o while, a diferença é que com o uso dele teremos os comandos executados ao menos uma única vez.
+[ 5 ] Qual a diferença do "while" e "do while"?
+ * **while:** Esta instrução é usada quando não sabemos quantas vezes um determinado bloco de instruções precisa ser repetido. Com ele, a execução das instruções vai continuar até que uma condição seja verdadeira. A condição a ser analisada para a execução do laço de repetição deverá retornar um valor booleano.
+ * **do while:** O do/while tem quase o mesmo funcionamento que o while, a diferença é que com o uso dele teremos os comandos executados ao menos uma única vez.
