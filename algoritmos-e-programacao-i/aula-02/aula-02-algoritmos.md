@@ -94,7 +94,7 @@ Dados de ENTRADA
 	Leia n2
 PROCESSAMENTO
 	Calcule Média = (n1 + n2) / 2
-Dados de SAÍDA
+Dados de SAIDA
 	Exiba Média
 ```
 ### Teste de Mesa ###
@@ -109,7 +109,7 @@ Dados de ENTRADA
 	Leia n2 [7,00]
 PROCESSAMENTO
 	Calcule Média = (n1 + n2) / 2 [5,0 + 7,0 / 2]
-Dados de SAÍDA
+Dados de SAIDA
 	Exiba Média [6,0]
 ```
 
@@ -133,13 +133,13 @@ O aluno que atingir média superior a 6 está aprovado.
 ######Três perguntas######
 Para montar o algoritmo proposto, faremos três perguntas:
  * Quais são os dados de entrada ?
- 	* R:Os dados de entrada são N1, N2
+ 	* R: Os dados de entrada são N1, N2
  * Qual será o processamento a ser utilizado ?
  	* R: O procedimento será somar todos os dados de entrada e dividi-los por 2 (dois), verificar se a média é superior ou igual a 6
  * Quais serão os dados de saída ?
   	* R: Exibir o resultado Final
 
-######TAlgoritmo em Portugol######
+######Algoritmo em Portugol######
 
 ```java
 Dados de ENTRADA
@@ -153,6 +153,14 @@ PROCESSAMENTO
 	então Resultado = Aprovado
 	Se não
 	Resultado = Reprovado
-Dados de SAÍDA
+Dados de SAIDA
 	Exiba Resultado
 ```
+### Bibliografia ###
+
+Para a elaboração deste material foram consultados vários tipos de materiais, como por exemplo: livros, apostilas, páginas web etc. Algumas das referências consultadas estão apresentadas a seguir:
+ + DEITEL, H. M.; DEITEL, P. J. Java: como programar. 6. ed. São Paulo: Bookman, 2007. 1110 p. ISBN 8576050196
+ + HORSTMANN, Cay. **Big Java**. Porto Alegre: Bookman, 2006. 1125 p. ISBN 853630345X 
+**CS-14** Algoritmos e Estrutura de Dados em Java – Disponível em: caelum.com.br
+ + BUFFONI, Salete. Apostila de Algoritmo Estruturado - 4ª edição. Disponível em: http://www.saletebuffoni.hpg.ig.com.br/algoritmos/Algoritmos.pdf.
+ + GOMES, Abel. **Algoritmos, Fluxogramas e Pseudo-código - Design de Algoritmos**. Disponível em: http://mail.di.ubi.pt/~programacao/capitulo6.pdf.
