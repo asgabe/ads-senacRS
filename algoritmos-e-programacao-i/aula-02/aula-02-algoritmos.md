@@ -104,11 +104,11 @@ Após desenvolver um algoritmo ele deverá sempre ser testado. Este teste é cha
 ```java
 Dados de ENTRADA
 	Escreva "Informe a primeira nota do aluno:"
-	Leia n1 **5,0**
+	Leia n1 [5,0]
 	Escreva "Informe a segunda nota do aluno:"
-	Leia n2 **7,00**
+	Leia n2 [7,00]
 PROCESSAMENTO
-	Calcule Média = **5,0 + 7,0 / 2**
+	Calcule Média = (n1 + n2) / 2 [5,0 + 7,0 / 2]
 Dados de SAÍDA
-	Exiba Média **6,0**
+	Exiba Média [6,0]
 ```
