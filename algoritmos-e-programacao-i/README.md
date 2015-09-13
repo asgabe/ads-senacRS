@@ -14,6 +14,5 @@ aqui.
 
 ## Lista de exercícios ##
 
- + [Lista de exercícios aula 01](lista-de-exercicios/exercicio-01.md) Sem link no momento
- + [Lista de exercícios aula 02](lista-de-exercicios/exercicio-02.md) Sem link no momento
+ + [Exercícios aula 02](lista-de-exercicios/exercicio-02.md) Sem link no momento
  + Você pode ver mais exercícios, basta clonar este repositório, entrar na pasta `aula-que-desejas/lista-de-exercicios/`, e pronto! :D
