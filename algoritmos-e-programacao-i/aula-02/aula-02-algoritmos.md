@@ -169,9 +169,9 @@ Para a elaboração deste material foram consultados vários tipos de materiais,
 
 ##### LEMBRE-SE EM TODOS OS CÁLCULOS: #####
 
-1º Operações dentro dos parênteses (se houver);
-2º Operações dentro dos colchetes (se houver);
-3º operações dentro das chave ( se houver).
+1. Operações dentro dos parênteses (se houver);
+2. Operações dentro dos colchetes (se houver);
+3. operações dentro das chave ( se houver).
 
 Em todas elas:
 
