@@ -16,8 +16,8 @@ Dados de ENTRADA
 	Leia qtdMulheres
 PROCESSAMENTO
 	total = qtdHomens + qtdMulheres
-	percentual_homens = (qtdhomens / total) * 100;
-	percentual_mulheres = (qtdmulheres / total) * 100;
+	percentual_homens = (qtdHomens / total) * 100;
+	percentual_mulheres = (qtdMulheres / total) * 100;
 SAIDA
 	Escreva "percentual_homens" + "%"
 	Escreva "percentual_mulheres" + "%"
