@@ -27,6 +27,8 @@ SAIDA
  * distancia = tempo * velocidade
  * litros_usados = distancia / 12
 
+ * O algoritmo deverá apresentar o valor da velocidade média, tempo gasto na viagem, distância percorrida e a quantidade de litros utilizados na viagem.
+
 ```java
 variaveis = tempo, velocidade_media, distancia, litros_usados;
 ENTRADA
