@@ -128,10 +128,10 @@ public class exercicio_02 {
 			coluna = 1;
 			while (coluna <= contador) {
 				System.out.print(contador + " ");
-				coluna = coluna + 1;
+				coluna++;
 			}
 			System.out.println(" ");
-			contador = contador + 1;
+			contador++;
 		}
 
 	}
@@ -152,7 +152,7 @@ public class exercicio_02 {
 
 		while (contador <= 10);
 			System.out.println("teste");
-			contador = contador + 1;
+			contador++;
 	}
 
 }
