@@ -12,65 +12,58 @@ também a quantidade e o percentual dos votos em branco e quem foi o ganhador
 da eleição.
 
 ```java
-package aula06;
+variaveis = cand_a = 0,
+			cand_b = 0,
+			cand_c = 0,
+			votos_branco = 0,
+			total = 0,
+			perc_a = 0,
+			perc_b = 0,
+			perc_c = 0,
+			perc_branco = 0,
+			optin = 1;
 
-import java.util.Scanner;
+variavel = msg;
 
-public class exercicio_01 {
-	public static void main(String[] args) {
-		Scanner ler = new Scanner(System.in);
 
-		double  cand_a = 0,
-				cand_b = 0,
-				cand_c = 0,
-				votos_branco = 0,
-				total = 0,
-				perc_a = 0,
-				perc_b = 0,
-				perc_c = 0,
-				perc_branco = 0;
-
-		int option = 1;
-		String msg;
-
-		while(option != 5) {
-			System.out.println("# URNA ELEITORAL #" +
-								"\n[1] Candidato A" +
-								"\n[2] Candidato B" +
-								"\n[3] Candidato C" +
-								"\n[4] Branco" 	  	+
-								"\n[5] Encerrar Eleições");
-			option = ler.nextInt();
-
-			switch(option) {
+ENTRADO
+	ENQUANTO (option != 5)
+		Escreva(# URNA ELEITORAL #" +
+				"\n[1] Candidato A" +
+				"\n[2] Candidato B" +
+				"\n[3] Candidato C" +
+				"\n[4] Branco" 	  	+
+				"\n[5] Encerrar Eleições");
+	Leia option;
+PROCESSAMENTO
+		switch(option)
 			case 1:
-				cand_a++;
+				cand_a = cand_a + cand_a;
 				break;
 			case 2:
-				cand_b++;
+				cand_a = cand_b + cand_b;
 				break;
 			case 3:
-				cand_c++;
+				cand_a = cand_c + cand_c;
 				break;
 			case 4:
-				votos_branco++;
+				cand_a = votos_branco + votos_branco;
 				break;
 			case 5:
-				System.out.println("Eleições Encerradas!");
+				Escreva("Eleições Encerradas!");
 				break;
 			default:
-				System.out.println("Opçõa Invalida ,apenas de 1 à 5");
-			}
-
+				Escreva("Opçõa Invalida ,apenas de 1 à 5"");
+		FIM-SWITCH
+			/* Calculando o percentual */
 			total = cand_a + cand_b + cand_c;
 			perc_a = (cand_a / total) * 100;
 			perc_b = (cand_b / total) * 100;
 			perc_c = (cand_c / total) * 100;
 			perc_branco = (votos_branco / total) * 100;
-
-		}
-
-		msg = "# Candidato A #" +
+	FIM-ENQUANTO
+	/* Variavel de retorno de mensagem */
+	msg = "# Candidato A #" +
 				"\nTotal de votos : " + cand_a +
 				"\nPercentual : " + perc_a + "%" +
 				"\n\n# Candidato B #" +
@@ -82,83 +75,18 @@ public class exercicio_01 {
 				"\n\n# Votos em Branco #" +
 				"\nTotal de votos :" + votos_branco +
 				"\nPercentual : " + perc_branco;
-		if (cand_a > cand_b && cand_a > cand_c) {
-			System.out.println("Candidato A WIN!");
-			System.out.println(msg);
-		} else if(cand_b > cand_a && cand_b > cand_c) {
-			System.out.println("Candidato B WIN!");
-			System.out.println(msg);
-		} else if(cand_c > cand_a && cand_c > cand_b) {
-			System.out.println("Candidato C WIN!");
-			System.out.println(msg);
-		}
-	}
-
-}
+SAIDA
+	SE (cand_a > cand_b && cand_a > cand_c)
+		ENTAO
+			Escrever("Candidato A WIN!")
+			Escrever(msg)
+	SENAO SE (cand_b > cand_a && cand_b > cand_c)
+		ENTAO
+			Escrever("Candidato B WIN!")
+			Escrever(msg)
+	SENAO SE (cand_c > cand_a && cand_c > cand_b)
+		ENTAO
+			Escrever("Candidato C WIN!")
+			Escrever(msg)
+	FIM-SE
 ```
-[ 2 ] Desenhe a seguinte pirâmide de números. O usuário determina a quantidade de linhas.
-
-```java
-01
-02 02
-03 03 03
-04 04 04 04
-05 05 05 05 05
-06 06 06 06 06 06
-07 07 07 07 07 07 07
-08 08 08 08 08 08 08 08
-09 09 09 09 09 09 09 09 09
-10 10 10 10 10 10 10 10 10 10
-11 11 11 11 11 11 11 11 11 11 11
-```
-
-```java
-package aula06;
-
-import java.util.Scanner;
-
-public class exercicio_02 {
-	public static void main(String[] args) {
-		Scanner ler = new Scanner(System.in);
-
-		int linha, coluna, contador = 1;
-		System.out.println("Coloque o número de linhas da pirâmide");
-		linha = ler.nextInt();
-		while (contador <= linha) {
-			coluna = 1;
-			while (coluna <= contador) {
-				System.out.print(contador + " ");
-				coluna++;
-			}
-			System.out.println(" ");
-			contador++;
-		}
-
-	}
-
-}
-```
-[ 4 ] Identifique o que está errado no código abaixo
-
-```java
-package aula06;
-
-import java.util.Scanner;
-
-public class exercicio_02 {
-	public static void main(String[] args) {
-
-		int contador = 1;
-
-		while (contador <= 10);
-			System.out.println("teste");
-			contador++;
-	}
-
-}
-// R: O erro se encontra nessa linha de código "while (contador <= 10);"
-```
-
-[ 5 ] Qual a diferença do "while" e "do while"?
- * **while:** Esta instrução é usada quando não sabemos quantas vezes um determinado bloco de instruções precisa ser repetido. Com ele, a execução das instruções vai continuar até que uma condição seja verdadeira. A condição a ser analisada para a execução do laço de repetição deverá retornar um valor booleano.
- * **do while:** O do/while tem quase o mesmo funcionamento que o while, a diferença é que com o uso dele teremos os comandos executados ao menos uma única vez.
