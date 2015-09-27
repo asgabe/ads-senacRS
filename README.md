@@ -1,1 +1,1 @@
-## Faculdade de Tecnologia Senac RS ##
+# Faculdade de Tecnologia Senac RS #
