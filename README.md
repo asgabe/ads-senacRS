@@ -1,1 +1,1 @@
-# <p style="border-bottom: 1px solid #000000; text-align: center; "> Faculdade de Tecnologia Senac RS </p> #
+# <p style="color: #4078c0; "> Faculdade de Tecnologia Senac RS </p> #
