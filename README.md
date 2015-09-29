@@ -1,1 +1,1 @@
-# Faculdade de Tecnologia Senac RS # :octocat:
+# Faculdade de Tecnologia Senac RS :octocat:
