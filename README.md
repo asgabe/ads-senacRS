@@ -1,1 +1,1 @@
-# <p style="color: #4078c0; "> Faculdade de Tecnologia Senac RS </p> #
+# Faculdade de Tecnologia Senac RS # :octocat:
