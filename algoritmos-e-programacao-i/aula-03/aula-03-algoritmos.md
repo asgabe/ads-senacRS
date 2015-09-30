@@ -75,7 +75,7 @@ Inicialmente recebe um valor, geralmente 0 (ZERO), antes do inicio de uma estrut
 
  + Faça um algoritmo para ler vários números, enquanto o número for maior que 0. Ao final exiba a soma destes números.
 
-
+```java
 numero = 1
 ENQUANTO (numero > 0 ) FACA
 	Escreva "Informe um numero"
@@ -83,6 +83,7 @@ ENQUANTO (numero > 0 ) FACA
 	soma = soma + numero
 FIM-ENQUANTO
 Escreva "soma"
+```
 
 ### Bibliografia ###
 
