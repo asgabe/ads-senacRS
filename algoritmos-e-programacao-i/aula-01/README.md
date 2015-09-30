@@ -1,3 +1,4 @@
 # Algoritmos e Programação I #
 
-**(Prof. Lucia Saccomori)**
+## (Prof. Lucia Saccomori) ##
+
