@@ -2,8 +2,6 @@
 
 ## Algoritmos e Programação I
 
-## Estrutura de repetição
-
 **(Prof. Lucia Saccomori)**
 
 ### Estrutura de repetição ###
