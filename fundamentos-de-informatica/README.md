@@ -6,13 +6,13 @@
 
 ## TÓPICOS:
 
-+ HTML 		- HyperText Markup Languange
-+ CSS 		- Cascading Style Sheets
-+ DOM 		- Document Object Model
-+ CSSOM 	- CSS Object Model
-+ DOM Tree	- DOM + CSSOM
-+ Repaint	- Processo Repaint
-+ Reflow	- Processo Reflow
++ HTML
++ CSS	
++ DOM
++ CSSOM
++ DOM Tree
++ Repaint
++ Reflow
 
 ## Biografia básica sobre os tópicos que irei abordar.
 
