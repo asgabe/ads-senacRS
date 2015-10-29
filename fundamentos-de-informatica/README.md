@@ -27,7 +27,7 @@
  + **Document Object Model (DOM)** é uma interface de programação para documentos HTML, XML e SVG. Ele fornece uma representação estruturada do documento (a árvore) e define uma forma que a estrutura pode ser acessado a partir de programas para que eles possam alterar o documento estrutura, estilo e conteúdo.
 
 + CSSOM
- + **CSS Object Model** é um conjunto de APIs que permitem manipular CSS a partir do JavaScript. É como se fosse o DOM do HTML , mas para CSS. Ela permite ler e modificar o estilo CSS dinamicamente.
+ + **CSS Object Model (CSSOM)** é um conjunto de APIs que permitem manipular CSS a partir do JavaScript. É como se fosse o DOM do HTML , mas para CSS. Ela permite ler e modificar o estilo CSS dinamicamente.
 
 + DOM Tree
  + **DOM Tree** é a árvore que tem apenas os elementos para criar a renderização, é básicamente a última árvore apenas com os nodos que importam para a tela.
