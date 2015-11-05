@@ -1,8 +1,5 @@
-# Repaint/Reflow/DOM Tree
+# Repaint/Reflow
 ## Renderizando uma página Web
-
-***Gabriel Corrêa - Front-End Developer***
-
 
 ## TÓPICOS:
 
@@ -10,12 +7,11 @@
 + CSS	
 + DOM
 + CSSOM
-+ DOM Tree
++ Render Tree
 + Repaint
 + Reflow
 
 ## Biografia básica sobre os tópicos que irei abordar.
-
 
 + HTML
  + **HyperText Markup Language (HTML)** é a linguagem principal de quase todo o conteúdo da web. A maioria do que você vê na tela de seu navegador está descrita,fundamentalmente, usando HTML. Mais precisamente, o HTML é a linguagem que descreve a estrutura e o conteúdo semântico de um documento da Web. O conteúdo em uma página da Web é marcado com elementos HTML.
