@@ -1,0 +1,33 @@
+package com.senac.exercicio1;
+
+public class Circle {
+	double area;
+	double diametro;
+	double circ;
+	
+	
+	private void area() {
+		double r = 2;
+
+		this.area = 3.1416 * Math.pow(r, 2);
+	}
+	
+	private void diametro() {
+		this.area();
+
+		this.diametro = Math.sqrt(this.area) / 3.1416;
+	}
+	
+	private void circunferencia() {
+		this.diametro();
+
+		this.circ = 3.1416 * this.diametro;
+	}
+	
+	public String toString() {
+		this.circunferencia();
+
+		return "Área " + this.area;
+	}
+	
+}

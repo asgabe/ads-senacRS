@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.senac.exercicio1.Context&apos; to &apos;Circle&apos;&#x0A;- Original project: &apos;APS_I&apos;&#x0A;- Original element: &apos;com.senac.exercicio1.Context&apos;&#x0A;- Renamed element: &apos;com.senac.exercicio1.Circle&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Context&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.senac.exercicio1{Context.java[Context" matchStrategy="1" name="Circle" qualified="false" references="true" similarDeclarations="false" stamp="1492535036389" textual="false" version="1.0"/>
+</session>

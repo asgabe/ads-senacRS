@@ -1,0 +1,13 @@
+package com.senac.exercicio1;
+
+import com.senac.SimpleJava.Console;
+
+public class Context {
+	double area;
+	double pi = 3.14;
+
+	public double area (double raio) {
+		this.area = this.pi * (raio * raio);
+		return this.area;
+	}
+}

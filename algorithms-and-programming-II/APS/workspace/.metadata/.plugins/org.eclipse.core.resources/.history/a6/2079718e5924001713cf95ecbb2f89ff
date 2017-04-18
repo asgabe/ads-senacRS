@@ -1,0 +1,30 @@
+package com.senac.exercicio1;
+
+public class Circle {
+	double area;
+	double diametro;
+	double circ;
+	double pi = 3.1416;
+	
+	
+	private void area() {
+		double r = 2;
+
+		this.area = this.pi * (r * r);
+	}
+	
+	private void diamentro() {
+		this.diametro = Math.sqrt(this.area) / this.pi;
+	}
+	
+	private void circunferencia() {
+		this.circ = this.pi * this.diametro;
+	}
+	
+	public String toString() {
+		this.area();
+		
+		return "Área " + this.area;
+	}
+	
+}

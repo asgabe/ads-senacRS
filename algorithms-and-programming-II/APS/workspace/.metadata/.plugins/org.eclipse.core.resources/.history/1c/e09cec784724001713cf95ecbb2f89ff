@@ -1,0 +1,7 @@
+package com.senac.exercicio1;
+
+import com.senac.SimpleJava.Console;
+
+public class Context {
+
+}

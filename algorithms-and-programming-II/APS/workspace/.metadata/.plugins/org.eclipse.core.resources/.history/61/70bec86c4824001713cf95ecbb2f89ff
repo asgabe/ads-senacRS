@@ -1,0 +1,12 @@
+package com.senac.exercicio1;
+
+import com.senac.SimpleJava.Console;
+
+public class Main {
+	public void run () {
+		Context method;
+		method = new Context();
+		
+		Console.println("Área" + method.area(2));
+	}
+}
