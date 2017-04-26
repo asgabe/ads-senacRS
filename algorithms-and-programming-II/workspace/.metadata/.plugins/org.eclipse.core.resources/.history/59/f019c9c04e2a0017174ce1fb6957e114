@@ -1,0 +1,39 @@
+package com.senac.exercicio2;
+
+public class Client extends Account {
+	private String name = "Gabriel Corrêa";
+	private String agency = "";
+	private String accont;
+	
+	@Override
+	protected void CashOut(double value) {
+		// TODO Auto-generated method stub
+		super.CashOut(value);
+	}
+
+	@Override
+	protected void CashDeposit(double value) {
+		// TODO Auto-generated method stub
+		super.CashDeposit(value);
+	}
+
+	@Override
+	protected double getBalance() {
+		// TODO Auto-generated method stub
+		return super.getBalance();
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public String getAgency() {
+		return agency;
+	}
+
+
+	public String getAccont() {
+		return accont;
+	}
+
+}

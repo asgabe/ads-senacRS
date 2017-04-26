@@ -1,0 +1,20 @@
+package com.senac.exercicio2;
+
+public class Account {
+	public double balance = 200;
+
+	public void CashOut(double value) {
+		if (value < balance) {
+			this.balance = value - this.balance;
+		}
+	}
+
+	public void CashDeposit(double value) {
+		this.balance = value + this.balance;
+	}
+
+	public String toString() {
+		return "Account [balance=" + balance + "]";
+	}
+
+}

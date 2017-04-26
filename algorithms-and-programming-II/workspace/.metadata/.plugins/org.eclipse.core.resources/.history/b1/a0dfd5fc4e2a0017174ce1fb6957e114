@@ -1,0 +1,19 @@
+package com.senac.exercicio2;
+
+public class Account {
+	private double balance;
+	
+	protected void CashOut(double value) {
+		if(value < balance) {
+			this.balance = value - this.balance;
+		}
+	}
+	
+	protected void CashDeposit(double value) {
+		this.balance = value + this.balance;
+	}
+	
+	protected double getBalance() {
+		return this.balance;
+	}
+}
