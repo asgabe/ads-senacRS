@@ -1,0 +1,69 @@
+package com.senac.exercicio1;
+
+import com.senac.SimpleJava.Console;
+
+public class Circle {
+	private double area;
+	private double circu;
+
+	private double x;
+	private double y;
+	private double r;
+
+	double dx = Math.pow(x2 - x1, 2) + Math.pow(y1 - y2, 2);
+	double dy = Math.pow(r1 + r2, 2);
+	
+	private void setValue(double x, double y, double r) {
+		this.r = r;
+
+		this.area();
+		this.circunferencia();
+	}
+
+	private void area() {
+		this.area = 3.14 * Math.pow(this.r, 2);
+	}
+
+	private void circunferencia() {
+		this.circu = 2 * 3.14 * this.r;
+	}
+
+	public void hasCollision(double x1, double y1, double x2, double y2) {
+		this.dx = Math.pow(x2 - x1, 2) + Math.pow(y1 - y2, 2);
+		this.dy = Math.pow(this.raio, 2);
+
+		if (this.dx < this.dy) {
+			Console.println("Collision");
+		} else {
+			Console.println("Not Collision");
+		}
+	}
+
+	private void setup() {
+		this.area();
+		this.circunferencia();
+	}
+
+	public String toString() {
+		return "Área " + this.area + "\nCircunferência " + this.circu;
+	}
+
+}
+
+// double x1 = 3;
+// double y1 = 4;
+//
+// double x2 = 6;
+// double y2 = 8;
+//
+// double r1 = 3;
+// double r2 = 5;
+//
+// double dx = Math.pow(x2-x1, 2) + Math.pow(y1-y2, 2);
+// double dy = Math.pow(r1 + r2, 2);
+//
+// if(dx < dy) {
+// Console.println("Collision");
+// } else {
+// Console.println("Not Collision");
+// }

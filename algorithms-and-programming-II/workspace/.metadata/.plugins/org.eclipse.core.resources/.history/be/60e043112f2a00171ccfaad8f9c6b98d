@@ -1,0 +1,27 @@
+package com.senac.exercicio1;
+
+import com.senac.SimpleJava.Console;
+import java.util.Scanner;
+
+public class Main {
+	public void run() {
+		Circle circle;
+		circle = new Circle();
+		Scanner read = new Scanner(System.in);
+		
+		 double x1;
+		 double y1;
+		
+		 double x2;
+		 double y2;
+		
+		 double r1;
+		 double r2;
+
+		Console.println(circle.toString());
+
+		Console.println("Entre com um valor raio:");
+		x1 = read.nextDouble();
+
+	}
+}

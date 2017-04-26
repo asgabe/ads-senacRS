@@ -17,7 +17,12 @@ public class Circle {
 	private void circunferencia() {
 		this.c = 2 * 3.14 * this.r;
 	}
-
+	
+//	public boolean hasCollision(double c1, double c2) {
+//		
+//		Math.pow(this.r)
+//	}
+	
 	private void setup() {
 		this.area();
 		this.circunferencia();
