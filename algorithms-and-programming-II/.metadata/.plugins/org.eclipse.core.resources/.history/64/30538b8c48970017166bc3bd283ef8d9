@@ -1,0 +1,6 @@
+
+public class C373 {
+	private String name;
+	private String description;
+	private double price; 
+}
