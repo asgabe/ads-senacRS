@@ -1,4 +1,5 @@
-bin/
-*.tmp
-*.~
-*.swp
+algorithms-and-programming-II/bin/
+algorithms-and-programming-II/*.tmp
+algorithms-and-programming-II/*.~
+algorithms-and-programming-II/*.swp
+algorithms-and-programming-II/.metadata/
