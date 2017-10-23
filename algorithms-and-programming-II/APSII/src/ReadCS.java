@@ -14,18 +14,17 @@ public class ReadCS {
 
 	public void run() {
 
-		String arquivoCSV = "arquivo.csv";
+		String file = "/home/gabriel/Desktop/file.csv";
 		BufferedReader br = null;
-		String linha = "";
+		String line = "";
 		String csvDivisor = ",";
 		try {
 
-			br = new BufferedReader(new FileReader(arquivoCSV));
-			while ((linha = br.readLine()) != null) {
+			br = new BufferedReader(new FileReader(file));
+			while ((line = br.readLine()) != null) {
 
-				String[] pais = linha.split(csvDivisor);
-
-				System.out.println("País [code= " + pais[pais.length - 2] + " , name=" + pais[pais.length - 1] + "]");
+				String[] mail = line.split(csvDivisor);
+				System.out.println("{name: " + mail[mail.length - 2] + " , email:" + mail[mail.length - 1] + "}");
 
 			}
 
