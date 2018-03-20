@@ -2,4 +2,4 @@
 
 > Repository of materials and college exercises!
 
-![GitHub Class](github-bag.png =200x100)
+![](github-bag.png | width=200)
