@@ -2,4 +2,4 @@
 
 > Repository of materials and college exercises!
 
-![GitHub Class](image/github-bag.png "GitHub")
+![GitHub Class](github-bag.png =200x)
