@@ -2,4 +2,4 @@
 
 > Repository of materials and college exercises!
 
-![](github-bag.png){:width="200px"}
+<img src="github-bag.png" alt="GitHub Class" width="200">
