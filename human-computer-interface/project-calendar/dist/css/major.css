@@ -1,4 +1,7 @@
 /**
+ * #UTILS
+ */
+/**
  * #COMPONENTS
  */
 body {
@@ -7,10 +10,39 @@ body {
   font-size: 14px;
   line-height: 1.4286;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  position: relative; }
 
-.VmOpGe svg {
+.RAYh1e {
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  background: #fff;
+  z-index: 1;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 450px;
+  height: 500px;
+  position: absolute;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2); }
+
+.VmOpGe {
+  top: 0;
+  z-index: 0;
   width: 100%;
   height: 100%;
-  display: block;
-  position: relative; }
+  position: absolute; }
+  .VmOpGe svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative; }
+
+@media screen and (max-width: 600px) {
+  .RAYh1e {
+    width: 100%;
+    height: 100%; } }
