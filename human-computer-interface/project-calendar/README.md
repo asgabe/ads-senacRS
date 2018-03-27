@@ -19,7 +19,7 @@ Optei por usar branco nas minha telas pelo fato de ser uma cor neutra, adaptativ
 > + Walmart
 > + Facebook
 
-> Site q usem branco como cor principal.
+Site q usem branco como cor principal.
 
 **Referências**
 
