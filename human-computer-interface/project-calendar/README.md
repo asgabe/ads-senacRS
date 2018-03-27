@@ -13,7 +13,13 @@ criar tarefas a serem realizadas por você ou sua equipe.
 
 Optei por usar branco nas minha telas pelo fato de ser uma cor neutra, adaptativa a maioria das demais cores.
 
-> Obs: Sitar Google, Apple, Amazon, Walmart, Facebook e demais site q usem branco como cor principal.
+> + Google
+> + Apple
+> + Amazon
+> + Walmart
+> + Facebook
+
+> Site q usem branco como cor principal.
 
 **Referências**
 
@@ -22,7 +28,7 @@ Quando eu estava criando o **iTask** uma das minhas grandes referências foram a
 
 #### Telas
 
-<img src="../img/login.png" alt="Login" width="300">
+<img src="../img/login.png" alt="Login" width="500">
 
 
 
